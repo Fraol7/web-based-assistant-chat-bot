@@ -18,6 +18,16 @@ of awareness of users in using various systems.
 Inorder to run the project you can simply use the vs code or any other similar things and test it after that 
 you get link in which you can use the ctrl+ click on the generated link to view in browser.
 
+
+It was done by 
+
+- Email: [fraolmulugeta17@gmail.com](mailto:fraolmulugeta17@gmail.com)
+- GitHub: [Fraol7](https://github.com//Fraol7)
+  
+- Email: [abrham.wendmeneh.a@gmail.com](mailto:abrham.wendmeneh.a@gmail.com)
+- GitHub: [AbrhamWendmeneh](https://github.com//AbrhamWendmeneh)
+
+
 ![image](https://github.com/AbrhamWendmeneh/web-based-assistant-chat-bot/assets/99592824/7e0ddb4a-e0c4-4c4a-b4a7-ffb190512cf5)
 
 
